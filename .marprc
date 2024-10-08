@@ -1,6 +1,7 @@
 # .marprc.yaml
 allowLocalFiles: False
 options:
+  headingDivider: 2
   looseYAML: false
   markdown:
     breaks: false
@@ -14,4 +15,4 @@ preview: true
 watch: false
 server: false
 theme: "style.css"
-math: mathjx
+math: mathjax
