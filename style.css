@@ -14,9 +14,10 @@ h1 {
 }
 
 h2 {
+    text-transform: capitalize;
     font-size: 35px; /* Larger font size for heading */
     font-family: "Lucida Console";
-    color: #0000ff; 
+    color: #079; 
     position: fixed;
     top: 35px; 
 }
